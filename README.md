@@ -1,7 +1,7 @@
 # Getting Started
 
-## Demo
-Demo is a sample spring-boot application that displays a random joke to the user.
+## ns-demo
+ns-demo is a sample spring-boot application that displays a random joke to the user.
 ### Tech stack
 
 This assignment has been built using:
